@@ -8,4 +8,7 @@ Relax no biggie
 [![Releases](https://img.shields.io/github/release/TEKA2003/sem/all.svg?style=flat-square)](https://github.com/TEKA2003/sem/releases)
 
 
+# Software Engineering Methods
+![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/TEKA2003/sem/main.yml?branch=develop)
+
 
